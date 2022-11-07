@@ -2,7 +2,7 @@ name: Release helm
 on:
  push:
     branches:
-     - master
+     - main
     paths:
       - "charts/**"
 
