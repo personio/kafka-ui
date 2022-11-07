@@ -4,21 +4,13 @@ updates:
   directory: "/"
   schedule:
     interval: daily
-    time: "10:00"
-    timezone: Europe/Moscow
-  reviewers:
-    - "Haarolean"
-  assignees:
-    - "Haarolean"
   labels:
     - "scope/backend"
     - "type/dependencies"
 - package-ecosystem: npm
   directory: "/kafka-ui-react-app"
   schedule:
-    interval: weekly
-    time: "10:00"
-    timezone: Europe/Moscow
+    interval: daily
   open-pull-requests-limit: 10
   versioning-strategy: increase-if-necessary
   labels:
@@ -94,13 +86,7 @@ updates:
 - package-ecosystem: "github-actions"
   directory: "/"
   schedule:
-    interval: weekly
-    time: "10:00"
-    timezone: Europe/Moscow
-  reviewers:
-    - "Haarolean"
-  assignees:
-    - "Haarolean"
+    interval: daily
   labels:
     - "scope/infrastructure"
     - "type/dependencies"
