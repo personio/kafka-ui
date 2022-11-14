@@ -20,7 +20,7 @@
         <org.projectlombok.version>1.18.24</org.projectlombok.version>
         <org.projectlombok.e2e-checks.version>1.18.20</org.projectlombok.e2e-checks.version>
         <git.revision>latest</git.revision>
-        <kafka-clients.version>3.2.0</kafka-clients.version>
+        <kafka-clients.version>7.3.0-ce</kafka-clients.version>
         <node.version>v16.15.0</node.version>
         <pnpm.version>v7.4.0</pnpm.version>
         <fabric8-maven-plugin.version>0.40.2</fabric8-maven-plugin.version>
