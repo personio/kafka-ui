@@ -16,7 +16,7 @@
         <aspectj.version>1.9.19</aspectj.version>
         <allure.version>2.20.1</allure.version>
         <json-smart.version>2.4.8</json-smart.version>
-        <testcontainers.version>1.17.5</testcontainers.version>
+        <testcontainers.version>1.17.6</testcontainers.version>
         <selenide.version>6.9.0</selenide.version>
         <assertj.version>3.23.1</assertj.version>
         <google.auto-service.version>1.0.1</google.auto-service.version>
