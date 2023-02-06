@@ -39,7 +39,7 @@
         <okhttp3.mockwebserver.version>4.10.0</okhttp3.mockwebserver.version>
         <junit-jupiter-engine.version>5.9.2</junit-jupiter-engine.version>
         <mockito.version>4.8.1</mockito.version>
-        <byte-buddy.version>1.12.22</byte-buddy.version>
+        <byte-buddy.version>1.12.23</byte-buddy.version>
         <assertj.version>3.23.1</assertj.version>
         <antlr4-maven-plugin.version>4.11.1</antlr4-maven-plugin.version>
         <groovy.version>3.0.14</groovy.version>
